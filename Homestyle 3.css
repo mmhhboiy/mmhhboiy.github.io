@@ -15,7 +15,7 @@ header a{
 }
 header a:hover{
     font-weight: bold;
-    color: 	#f0bb71;
+    color: 	#4c0d59;
 }
 .highlight{
     color: 	#4c0d59;
@@ -24,7 +24,7 @@ header a:hover{
 header li{
     display: inline;
     font-size: 40px;
-    color: #4c0d59;
+    color: #71a6f0;
 }
 #banner{
     border-top:	#171ab4 45px solid;
