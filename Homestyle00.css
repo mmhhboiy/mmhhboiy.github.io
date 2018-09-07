@@ -41,6 +41,10 @@ body{
     font-size: 30px;
     color: 	#0a145e;
 }
+#links: hover{
+    font-weight: bold;
+    color: 	#060c38;
+}
 li{
     display: inline;
     font-size: 40px;
